@@ -13,4 +13,4 @@ Our analysis consisted of :
 <li>Clustering the data to reveal properties of the dataset that were not apparent before</li>
 <li>Building machine learning models to strengthen the knowledge we have gathered up until now</li>
 </ul>
-The project was implemented using <b>Python</b> in the <b>jupiter notebooks</b> enviroment
+The project was implemented using <b>Python</b> in the <b>Jupyter Notebooks</b> enviroment
